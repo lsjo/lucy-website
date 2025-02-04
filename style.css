@@ -30,7 +30,7 @@ body {
 }
 
 .broken {
-    text-decoration: strikethrough;
+    text-decoration: line-through;
 }
 
 h1 {
