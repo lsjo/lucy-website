@@ -32,6 +32,7 @@ body {
 .broken {
     text-decoration: strikethrough;
 }
+
 h1 {
     font-size: 60px;
     margin: auto;
