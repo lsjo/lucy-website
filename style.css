@@ -33,6 +33,10 @@ body {
     text-decoration: strikethrough;
 }
 
+.countdown {
+    display: block;
+}
+
 h1 {
     font-size: 60px;
     margin: auto;
